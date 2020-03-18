@@ -1,0 +1,38 @@
+<head>>
+  <style>
+
+    body {
+      background-color: white;
+    }
+
+    h1 {
+      color:  black;
+      text-decoration: solid;
+    }
+
+    h2, p {
+      color: black;
+    }
+
+    p, li {
+      font-size: 24px;
+      font-family: cursive;
+    }
+
+
+
+    .redtext {
+        color: red;
+    }
+
+    .bluetext {
+        color: blue;
+    }
+    
+    .greentext {
+        color: green;
+      }
+
+
+  </style>
+</head>

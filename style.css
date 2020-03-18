@@ -19,17 +19,15 @@
       font-family: cursive;
     }
 
-
-
-    .redtext {
+    redtext {
         color: red;
     }
 
-    .bluetext {
+    bluetext {
         color: blue;
     }
     
-    .greentext {
+    greentext {
         color: green;
       }
 
